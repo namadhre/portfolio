@@ -8,7 +8,7 @@ interface NavLink {
   url: string;
 }
 
-const resumeUrl = "https://drive.google.com/file/d/1VZ9lzP45iUEr-V_7LvNoa-b87DUvvL84/view?usp=sharing";
+const resumeUrl = "https://drive.google.com/file/d/1jgUSbA1XLJdrqwjk59NcCj7_xBmX9WFu/view?usp=sharing";
 
 const navLinks: NavLink[] = [
   { name: "About", url: "#about" },
