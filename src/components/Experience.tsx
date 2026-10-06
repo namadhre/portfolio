@@ -12,14 +12,14 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    title: "SDE - 1",
+    title: "SDE - 2",
     company: "Aerchain",
     companyLink: "https://www.aerchain.io/",
     date: "March 2023 - Present",
     points: [
-      "Optimized backend performance by reducing API call times from over 2 minutes to 3 milliseconds through query indexing and failure elimination.",
-      "Improved system reliability, resolving high-priority production and UAT issues, increasing uptime by 10% and reducing recurring failures by 30%.",
-      "Led sprint issue resolution as Single Point of Contact (SPOC), ensuring critical issues were resolved within 2 hours to minimize downtime.",
+      "Worked closely with Product and Business teams to understand customer pain points and workflows, translating them into well-designed, scalable features and delivering them end-to-end.",
+      "Redesigned and implemented the application’s authentication architecture by introducing SSO, Social Login, and Magic Link authentication, with secure token-based authentication, authorization flows, and third-party identity provider integrations, improving maintainability and streamlining user onboarding.",
+      "Led sprint issue resolution as Single Point of Contact (SPOC), ensuring critical issues were resolved within 1 hour to minimize downtime.",
       "Built and deployed scalable APIs integrated with Syspro and SAP, fully automating data sync and eliminating manual data entry.",
       "Enhanced code quality and team efficiency through peer code reviews, clean code practices."
     ]
